@@ -1,1 +1,6 @@
 /* css styles */
+/* Disable clicking on the navbar logo */
+.navbar-brand {
+    pointer-events: none;
+    cursor: default;
+}

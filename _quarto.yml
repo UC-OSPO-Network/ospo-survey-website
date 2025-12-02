@@ -6,8 +6,6 @@ website:
   navbar:
     title: false
     logo: images/logo.svg
-    logo-href: https://ucospo.net
-    target: _blank
     left:
       - href: index.qmd
         text: Home
