@@ -1,5 +1,0 @@
----
-title: "Project status"
----
-
-Here we will post updates about the status of this project.
