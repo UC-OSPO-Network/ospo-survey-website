@@ -4,14 +4,18 @@ project:
 website:
   title: "ospo-survey-website"
   navbar:
+    title: false
+    logo: images/logo.svg
+    logo-href: https://ucospo.net
     left:
       - href: index.qmd
         text: Home
       - href: status.qmd
-        text: Project status
+        text: Updates
 
 format:
   html:
+    include-after-body: links.html
     theme:
       - cosmo
       - brand
