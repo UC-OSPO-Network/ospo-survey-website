@@ -1,7 +1,24 @@
 ---
-title: "ospo-survey-website"
+title: "The 2025 UC OSPO Network Open Source Survey"
+toc: true
+toc-location: body
+toc-title: "On this page"
 ---
 
-This is a Quarto website.
+This is the homepage for the 2025 UC OSPO Network Open Source Survey. This website is a work in progress.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Background
+Here is some background on the project.
+
+# Key results
+This is where we'll put an infographic.
+
+## Takeaways for other OSPOs
+Basically re-hashing the conclusions of the paper.
+
+# Links to project materials
+Lessons learned \
+Paper \
+Data \
+Archived code \
+Living code \
