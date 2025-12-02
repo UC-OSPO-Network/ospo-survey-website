@@ -174,13 +174,16 @@ Living code<br>
 
 </main> <!-- /main -->
 <script>
-window.onload = function() {
-    // Find the logo link and force it to open in a new tab
-    var logoLink = document.querySelector('.navbar-logo');
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select the actual link (anchor tag) that contains the logo
+    // Quarto typically assigns the class 'navbar-brand' to the container link
+    var logoLink = document.querySelector('a.navbar-brand');
+
     if (logoLink) {
-        logoLink.setAttribute('target', '_blank');
+      logoLink.setAttribute('target', '_blank');
+      logoLink.setAttribute('rel', 'noopener noreferrer'); // Security best practice for new tabs
     }
-};
+  });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
