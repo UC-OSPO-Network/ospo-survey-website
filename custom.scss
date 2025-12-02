@@ -1,0 +1,10 @@
+/*-- scss:defaults --*/
+$navbar-light-color: #005581 !default;
+$navbar-light-hover-color: #a1daf7 !default;
+$navbar-light-active-color: #5abff2 !default;
+
+/*-- scss:rules --*/
+.navbar-brand {
+    pointer-events: none;
+    cursor: default;
+}
