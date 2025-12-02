@@ -1,15 +1,7 @@
 /*-- scss:defaults --*/
-/* set the main background color */
-$primary: #005581 !default;
-
-/* Since the background is blue (dark), we configure the 'dark' variables */
-$navbar-dark-color: #ffffff !default;        /* Normal Text */
-$navbar-dark-hover-color: #a1daf7 !default;  /* Hover Text */
-$navbar-dark-active-color: #5abff2 !default; /* Active Page Text */
-
-$navbar-light-color: #005581 !default;
-$navbar-light-hover-color: #a1daf7 !default;
-$navbar-light-active-color: #5abff2 !default;
+$navbar-bg: #005581;
+$navbar-fg: #ffffff;
+$navbar-hl: #5abff2;
 
 /*-- scss:rules --*/
 .navbar-brand {
