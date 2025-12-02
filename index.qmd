@@ -1,7 +1,6 @@
 ---
 title: "The 2025 UC OSPO Network Open Source Survey"
 toc: true
-toc-location: body
 toc-title: "On this page"
 ---
 
@@ -11,8 +10,8 @@ This is the homepage for the 2025 UC OSPO Network Open Source Survey. This websi
 Here is some background on the project.
 
 # Key results
-This is where we'll put an infographic. For now, I am using a random image.
-![A person walking through a snowy forest](images/kevin-mueller-lHs2IZQTx5Y-unsplash.jpg){width=75%}
+This is where we'll put an infographic. For now, I am using a random image. \
+![A person walking through a snowy forest](images/kevin-mueller-lHs2IZQTx5Y-unsplash.jpg){width=75% fig-align="center"}
 
 ## Takeaways for other OSPOs
 Basically re-hashing the conclusions of the paper.
