@@ -140,18 +140,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    // Select the actual link (anchor tag) that contains the logo
-    // Quarto typically assigns the class 'navbar-brand' to the container link
-    var logoLink = document.querySelector('a.navbar-brand');
-
-    if (logoLink) {
-      logoLink.setAttribute('target', '_blank');
-      logoLink.setAttribute('rel', 'noopener noreferrer'); // Security best practice for new tabs
-    }
-  });
-</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
