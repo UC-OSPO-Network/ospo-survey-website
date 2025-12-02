@@ -7,6 +7,7 @@ website:
     title: false
     logo: images/logo.svg
     logo-href: https://ucospo.net
+    link-external-newwindow: true
     left:
       - href: index.qmd
         text: Home
@@ -15,7 +16,6 @@ website:
 
 format:
   html:
-    include-after-body: links.html
     theme:
       - cosmo
       - brand
