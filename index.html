@@ -80,8 +80,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">ospo-survey-website</span>
+    <a href="https://ucospo.net" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo.svg" alt="" class="navbar-logo light-content">
+    <img src="./images/logo.svg" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -96,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./status.html"> 
-<span class="menu-text">Project status</span></a>
+<span class="menu-text">Updates</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -172,6 +173,15 @@ Living code<br>
 </section>
 
 </main> <!-- /main -->
+<script>
+window.onload = function() {
+    // Find the logo link and force it to open in a new tab
+    var logoLink = document.querySelector('.navbar-logo');
+    if (logoLink) {
+        logoLink.setAttribute('target', '_blank');
+    }
+};
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
