@@ -4,3 +4,23 @@
     pointer-events: none;
     cursor: default;
 }
+
+/* --- Custom Navbar Colors --- */
+
+/* 1. The Main Background Bar */
+.navbar {
+    /* Change this to your desired background color */
+    background-color: #005581 !important; 
+}
+
+/* 2. The Text Color (Links and Home) */
+.navbar-nav .nav-link, .navbar-brand {
+    /* Change this to your desired text color */
+    color: #FFFFFF !important; 
+}
+
+/* 3. The Hover Effect (When you mouse over a link) */
+.navbar-nav .nav-link:hover {
+    /* Change this to your highlight color */
+    color: #18BC9C !important; 
+}
