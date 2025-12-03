@@ -20,6 +20,5 @@ h2, .h2 {
 }
 .navbar-nav .nav-link.active {
     border-bottom: 1px solid #ffff;
-    /* Add a tiny bit of space so the line isn't touching the letters */
-    padding: 0 1px 1px 1px;
+    padding: 3px 1px 1px 1px;
 }
