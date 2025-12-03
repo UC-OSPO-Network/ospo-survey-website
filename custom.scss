@@ -1,6 +1,7 @@
 /*-- scss:defaults --*/
 $navbar-bg: #005581;
 $navbar-fg: #ffffff;
+$navbar-hl: #ffffff;
 // $navbar-hl: #5abff2;
 
 $footer-bg: #005581;
@@ -18,7 +19,7 @@ h2, .h2 {
   border-bottom: none;
 }
 .navbar-nav .nav-link.active {
-    border-bottom: 3px solid #ffff;
+    border-bottom: 1px solid #ffff;
     /* Add a tiny bit of space so the line isn't touching the letters */
-    padding: 1px;
+    padding: 0 1px 1px 1px;
 }
