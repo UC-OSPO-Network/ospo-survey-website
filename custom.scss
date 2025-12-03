@@ -8,10 +8,17 @@ $footer-fg: #ffffff;
 $footer-hl: #5abff2;
 
 /*-- scss:rules --*/
+
+// Prevent the navbar logo from being a link
 .navbar-brand {
     pointer-events: none;
     cursor: default;
 }
 h2, .h2 {
   border-bottom: none;
+}
+.navbar-nav .nav-link.active {
+    border-bottom: 3px solid #ffff;
+    /* Add a tiny bit of space so the line isn't touching the letters */
+    padding-bottom: 2px;
 }
