@@ -27,6 +27,6 @@ This is where we'll put an infographic. For now, I am using a random image.
 # Links to project materials
 [Lessons learned](https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md): a reflection on the survey instrument--what worked well and what didn't. \
 Paper: TBD \
-Data: https://doi.org/10.5061/dryad.2280gb662 \
-Archived code: https://doi.org/10.5281/zenodo.17783102 \
-Living code: https://github.com/UC-OSPO-Network/ospo-survey-analysis \
+Data: [https://doi.org/10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662) \
+Archived code: [https://doi.org/10.5281/zenodo.17783102](https://doi.org/10.5061/dryad.2280gb662) \
+Living code: [https://github.com/UC-OSPO-Network/ospo-survey-analysis](https://doi.org/10.5061/dryad.2280gb662) \

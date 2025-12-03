@@ -6,4 +6,4 @@ The 2025 survey is completed, but our research efforts are far from over. We int
 
 As part of the survey, we asked people to share their GitHub (GitLab, etc.) usernames with us (optionally and voluntarily). We plan to use these data to investigate where, how, and how often UC contributors are contributing to open source repos.
 
-If you are interested in collaborating with us on these projects or something else, please reach out to ospo@library.ucsb.edu.
+If you are interested in collaborating with us on this project or something else, please reach out to ospo@library.ucsb.edu.
