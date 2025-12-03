@@ -2,4 +2,8 @@
 title: "Project status"
 ---
 
-Here we will post updates about the status of this project.
+The 2025 survey is completed, but our research efforts are far from over. We intend to re-deploy an improved version this survey at UC again in the future. Timeline TBD.
+
+There is also an aspect of the survey that we barely discussed in the paper--we asked people to share their GitHub (GitLab, etc.) usernames with us (optionally and voluntarily). We plan to use these data to investigate where, how, and how often UC contributors are contributing to open source repos.
+
+If you are interested in collaborating with us on these projects or something else, please reach out to ospo@library.ucsb.edu.

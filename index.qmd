@@ -7,18 +7,26 @@ toc-title: "On this page"
 This is the homepage for the 2025 UC OSPO Network Open Source Survey. This website is a work in progress.
 
 # Background
-Here is some background on the project.
+The University of California (UC) OSPO Network is working to develop infrastructure for open source education, discovery, and sustainability at UC. To develop our strategic priorities and assess the state of UC open source, we conducted a survey in April 2025 of 294 UC-affiliated open source contributors. This website contains a summary of our findings and links to the survey paper and data, which shed light on how and why academics contribute to open source and the barriers they face.
 
 # Key results
-This is where we'll put an infographic. For now, I am using a random image. \
+This is where we'll put an infographic. For now, I am using a random image.
+
 ![A person walking through a snowy forest](images/kevin-mueller-lHs2IZQTx5Y-unsplash.jpg){width=75% fig-align="center"}
 
 ## Takeaways for other OSPOs
-Basically re-hashing the conclusions of the paper.
+* The most common challenges that emerged from our study were time and funding. As such, OSPOs should explore creative force multipliers—such as facilitating co-working groups, integrating AI tools for documentation, or providing administrative support for external grant acquisition—as well as directly funding open source, if possible.
+
+* A standout finding is the universal demand for high-quality computing environments, suggesting a specific infrastructure niche for academic OSPOs that differs from their industry counterparts. 
+
+* Because the needs of students, faculty, and IT staff diverge significantly, OSPOs may consider partnering with other university teams and departments to extend their reach.
+
+* OSPOs may encounter a tension between university administrative priorities (e.g., cost savings, licensing compliance) and developer priorities (e.g., funding and resources). OSPOs can and should find a balance, ideally one that demonstrates that all OSPO activity, even initiatives whose impacts may be indirect, is about supporting open source contributors and enacting open source values.
+
 
 # Links to project materials
-Lessons learned \
-Paper \
-Data \
-Archived code \
-Living code \
+[Lessons learned](https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md): a reflection on the survey instrument--what worked well and what didn't. \
+Paper: TBD \
+Data: https://doi.org/10.5061/dryad.2280gb662 \
+Archived code: https://doi.org/10.5281/zenodo.17783102 \
+Living code: https://github.com/UC-OSPO-Network/ospo-survey-analysis \
