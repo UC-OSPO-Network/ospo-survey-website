@@ -15,9 +15,9 @@ This is where we'll put an infographic. For now, I am using a random image.
 ![A person walking through a snowy forest](images/kevin-mueller-lHs2IZQTx5Y-unsplash.jpg){width=75% fig-align="center"}
 
 ## Takeaways for other OSPOs
-* The most common challenges that emerged from our study were time and funding. As such, OSPOs should explore creative force multipliers—such as facilitating co-working groups, integrating AI tools for documentation, or providing administrative support for external grant acquisition—as well as directly funding open source, if possible.
+* The most common challenges that emerged from our study were time and funding. As such, OSPOs should consider either directly funding open source development, or coming up with creative ways to "give back" time or money. Examples might include facilitating co-working groups, integrating AI tools for documentation, or providing support for external grant acquisition.
 
-* A standout finding is the universal demand for high-quality computing environments, suggesting a specific infrastructure niche for academic OSPOs that differs from their industry counterparts. 
+* We encountered high demand for affordable, accessible, feature-rich computing environments. This suggests an opportunity for academic OSPOs to help secure the technical infrastructure needed for open source development. 
 
 * Because the needs of students, faculty, and IT staff diverge significantly, OSPOs may consider partnering with other university teams and departments to extend their reach.
 

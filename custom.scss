@@ -1,11 +1,11 @@
 /*-- scss:defaults --*/
 $navbar-bg: #005581;
 $navbar-fg: #ffffff;
-$navbar-hl: #5abff2;
+// $navbar-hl: #5abff2;
 
 $footer-bg: #005581;
 $footer-fg: #ffffff;
-$footer-hl: #5abff2;
+
 
 /*-- scss:rules --*/
 
@@ -20,5 +20,5 @@ h2, .h2 {
 .navbar-nav .nav-link.active {
     border-bottom: 3px solid #ffff;
     /* Add a tiny bit of space so the line isn't touching the letters */
-    padding-bottom: 2px;
+    padding: 1px;
 }
