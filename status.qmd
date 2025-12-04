@@ -1,9 +1,21 @@
 ---
-title: "Project status"
+title: "UC OSPO Survey Updates"
+toc: false
 ---
 
-The 2025 survey is completed, but our research efforts are far from over. We intend to re-deploy an improved version this survey at UC again in the future. Timeline TBD.
+The 2025 survey is completed, but our research efforts are far from over.
 
-As part of the survey, we asked people to share their GitHub (GitLab, etc.) usernames with us (optionally and voluntarily). We plan to use these data to investigate where, how, and how often UC contributors are contributing to open source repos.
+# This survey
+We intend to continue deploying improved versions of this survey at UC again in the future, perhaps every two years. If you deploy an open source survey at your campus or in your academic community, we'd love to hear about it, whether or not you used our survey instrument.
 
-If you are interested in collaborating with us on this project or something else, please reach out to ospo@library.ucsb.edu.
+# Future project ideas
+## Analysis of commit histories
+As part of the survey, we asked people to share their GitHub (GitLab, etc.) usernames with us (optionally and voluntarily). We plan to use these data to investigate where, how, and how often UC contributors are contributing to small and large open source repos. This may happen in the second half of 2026.
+
+## Other ideas
+Other ideas we're considering, but have no immediate plans for, include:
+* Focus groups to investigate developer needs re: computing infrastructure
+* Anaylsis of software citations datasets, focused on UC software
+* Analysis of open source usage by UC IT
+
+If you are interested in collaborating with us on one of these projects or something else, please reach out to us at ospo@library.ucsb.edu.

@@ -1,32 +1,35 @@
 ---
-title: "The 2025 UC OSPO Network Open Source Survey"
+title: "UC OSPO Survey Home"
 toc: true
 toc-title: "On this page"
 ---
 
-This is the homepage for the 2025 UC OSPO Network Open Source Survey. This website is a work in progress.
+This is the homepage for the 2025 UC OSPO Network Open Source Survey.
 
 # Background
-The University of California (UC) OSPO Network is working to develop infrastructure for open source education, discovery, and sustainability at UC. To develop our strategic priorities and assess the state of UC open source, we conducted a survey in April 2025 of 294 UC-affiliated open source contributors. This website contains a summary of our findings and links to the survey paper and data, which shed light on how and why academics contribute to open source and the barriers they face.
+The University of California (UC) OSPO Network is working to develop infrastructure for open source education, discovery, and sustainability at UC. To develop our strategic priorities and assess the state of UC open source, we conducted a survey in April 2025 of 294 UC-affiliated open source contributors. This website contains a summary of our findings, links to the survey paper and data, and updates on this and related projects.
 
 # Key results
 This is where we'll put an infographic. For now, I am using a random image.
 
-![A person walking through a snowy forest](images/kevin-mueller-lHs2IZQTx5Y-unsplash.jpg){width=75% fig-align="center"}
+![](images/kevin-mueller-lHs2IZQTx5Y-unsplash.jpg){width=75% fig-align="center" fig-alt="A person walking through a snowy forest."}
 
 ## Takeaways for other OSPOs
-* The most common challenges that emerged from our study were time and funding. As such, OSPOs should consider either directly funding open source development, or coming up with creative ways to "give back" time or money. Examples might include facilitating co-working groups, integrating AI tools for documentation, or providing support for external grant acquisition.
+* The most common challenges that emerged from our study were time and funding. As such, OSPOs should consider either directly funding open source development, or coming up with creative ways to "give back" time or money. Examples might include facilitating co-working groups, promoting AI tools for documentation, or providing support for external grant acquisition.
 
 * We encountered high demand for affordable, accessible, feature-rich computing environments. This suggests an opportunity for academic OSPOs to help secure the technical infrastructure needed for open source development. 
 
 * Because the needs of students, faculty, and IT staff diverge significantly, OSPOs may consider partnering with other university teams and departments to extend their reach.
 
-* OSPOs may encounter a tension between university administrative priorities (e.g., cost savings, licensing compliance) and developer priorities (e.g., funding and resources). OSPOs can and should find a balance, ideally one that demonstrates that all OSPO activity, even initiatives whose impacts may be indirect, is about supporting open source contributors and enacting open source values.
+* OSPOs may encounter a tension between institutional priorities (e.g., cost savings, licensing compliance) and developer priorities (e.g., funding, maintenance). OSPOs can and should find a balance by building an open source culture, in which open source activities are not merely monitored or regulated, but also supported, celebrated, and rewarded.
 
 
 # Links to project materials
-[Lessons learned](https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md): a reflection on the survey instrument--what worked well and what didn't. \
+[Lessons learned](https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md): a retrospective on the survey instrument. \
+Preprint: TBD \
 Paper: TBD \
-Data: [https://doi.org/10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662) \
-Archived code: [https://doi.org/10.5281/zenodo.17783102](https://doi.org/10.5061/dryad.2280gb662) \
-Living code: [https://github.com/UC-OSPO-Network/ospo-survey-analysis](https://doi.org/10.5061/dryad.2280gb662) \
+Data (Dryad): [https://doi.org/10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662) \
+Archived code (Zenodo): [https://doi.org/10.5281/zenodo.17783102](https://doi.org/10.5061/dryad.2280gb662) \
+Living code (GitHub): [https://github.com/UC-OSPO-Network/ospo-survey-analysis](https://doi.org/10.5061/dryad.2280gb662) \
+
+The survey instrument is available as a PDF in the paper (Supplementary materials, S1 File) and in the living GitHub repo. The survey is also available in .docx and .qsf (Qualtrics format) formats in the Dryad dataset.
