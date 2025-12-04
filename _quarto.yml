@@ -13,21 +13,15 @@ website:
       - href: status.qmd
         text: Updates
   page-footer:
-    left: |
-      Built with [Quarto](https://quarto.org)
-    center: "Copyright 2025 Regents of the University of California"
+    left: 'Built with [Quarto](https://quarto.org)'
+    center: 'Copyright 2025 Regents of the University of California'
     right:
       - icon: github
         href: https://github.com/UC-OSPO-Network/ospo-survey-website
         target: _blank
       - icon: envelope
         href: mailto:ospo@library.ucsb.edu
-      - text: |
-        <a href="https://ucospo.net"
-           target="_blank"
-           class="footer-icon-link">
-           <img src="images/logo.svg"
-                class="footer-icon-img">
+      - text: '<a href="https://ucospo.net" target="_blank" class="footer-icon-link"> <img src="images/logo.svg" class="footer-icon-img">'
         </a>
 
 format:
