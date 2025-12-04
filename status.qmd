@@ -10,10 +10,11 @@ We intend to continue deploying improved versions of this survey at UC again in 
 
 # Future project ideas
 ## Analysis of commit histories
-As part of the survey, we asked people to share their GitHub (GitLab, etc.) usernames with us (optionally and voluntarily). We plan to use these data to investigate where, how, and how often UC contributors are contributing to small and large open source repos. This may happen in the second half of 2026.
+As part of the survey, we gave respondents the opportunity to share their GitHub (GitLab, etc.) usernames with us. We plan to use these data to investigate where, how, and how often UC contributors are contributing to small and large open source repos. This may happen in the second half of 2026.
 
 ## Other ideas
-Other ideas we're considering, but have no immediate plans for, include: \
+Other ideas we're considering, but have no immediate plans for, include:
+
 - Focus groups to investigate developer needs re: computing infrastructure
 - Anaylsis of software citations datasets, focused on UC software
 - Analysis of open source usage by UC IT

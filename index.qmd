@@ -4,17 +4,17 @@ toc: true
 toc-title: "On this page"
 ---
 
-This is the homepage for the 2025 UC OSPO Network Open Source Survey.
+Welcome to the homepage for the 2025 [UC OSPO Network](https://ucospo.net) Open Source Survey!
 
 # Background
-The University of California (UC) OSPO Network is working to develop infrastructure for open source education, discovery, and sustainability at UC. To develop our strategic priorities and assess the state of UC open source, we conducted a survey in April 2025 of 294 UC-affiliated open source contributors. This website contains a summary of our findings, links to the survey paper and data, and updates on this and related projects.
+The University of California (UC) OSPO Network is working to develop infrastructure for open source education, discovery, and sustainability at UC. To develop our strategic priorities and assess the state of UC open source, we conducted a survey in April 2025 of 294 UC-affiliated open source contributors. This website contains a summary of our findings, links to the paper and data, and updates on this and related projects.
 
 # Key results
 This is where we'll put an infographic. For now, I am using a random image.
 
 ![](images/kevin-mueller-lHs2IZQTx5Y-unsplash.jpg){width=75% fig-align="center" fig-alt="A person walking through a snowy forest."}
 
-## Takeaways for other OSPOs
+## Advice for OSPOs
 * The most common challenges that emerged from our study were time and funding. As such, OSPOs should consider either directly funding open source development, or coming up with creative ways to "give back" time or money. Examples might include facilitating co-working groups, promoting AI tools for documentation, or providing support for external grant acquisition.
 
 * We encountered high demand for affordable, accessible, feature-rich computing environments. This suggests an opportunity for academic OSPOs to help secure the technical infrastructure needed for open source development. 
