@@ -25,11 +25,11 @@ This is where we'll put an infographic. For now, I am using a random image.
 
 
 # Links to project materials
-[Lessons learned](https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md): a retrospective on the survey instrument. \
+[Lessons learned](https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md){target=_blank}: a retrospective on the survey instrument. \
 Preprint: TBD \
 Paper: TBD \
-Data (Dryad): [https://doi.org/10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662) \
-Archived code (Zenodo): [https://doi.org/10.5281/zenodo.17783102](https://doi.org/10.5061/dryad.2280gb662) \
-Living code (GitHub): [https://github.com/UC-OSPO-Network/ospo-survey-analysis](https://doi.org/10.5061/dryad.2280gb662) \
+Data (Dryad): [https://doi.org/10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662){target=_blank} \
+Archived code (Zenodo): [https://doi.org/10.5281/zenodo.17783102](https://doi.org/10.5061/dryad.2280gb662){target=_blank} \
+Living code (GitHub): [https://github.com/UC-OSPO-Network/ospo-survey-analysis](https://doi.org/10.5061/dryad.2280gb662){target=_blank} \
 
-The survey instrument is available as a PDF in the paper (Supplementary materials, S1 File) and in the living GitHub repo. The survey is also available in .docx and .qsf (Qualtrics format) formats in the Dryad dataset.
+The survey instrument is available in the paper, the GitHub repo, and the Dryad dataset.

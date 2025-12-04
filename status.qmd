@@ -13,9 +13,9 @@ We intend to continue deploying improved versions of this survey at UC again in 
 As part of the survey, we asked people to share their GitHub (GitLab, etc.) usernames with us (optionally and voluntarily). We plan to use these data to investigate where, how, and how often UC contributors are contributing to small and large open source repos. This may happen in the second half of 2026.
 
 ## Other ideas
-Other ideas we're considering, but have no immediate plans for, include:
-* Focus groups to investigate developer needs re: computing infrastructure
-* Anaylsis of software citations datasets, focused on UC software
-* Analysis of open source usage by UC IT
+Other ideas we're considering, but have no immediate plans for, include: \
+- Focus groups to investigate developer needs re: computing infrastructure
+- Anaylsis of software citations datasets, focused on UC software
+- Analysis of open source usage by UC IT
 
 If you are interested in collaborating with us on one of these projects or something else, please reach out to us at ospo@library.ucsb.edu.

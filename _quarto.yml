@@ -22,7 +22,12 @@ website:
       - icon: envelope
         href: mailto:ospo@library.ucsb.edu
       - text: |
-        <a href="https://ucospo.net" target="_blank"><img src="images/logo.svg" class="custom-icon"></a>
+        <a href="https://ucospo.net"
+           target="_blank"
+           class="footer-icon-link">
+           <img src="images/logo.svg"
+                class="footer-icon-img">
+        </a>
 
 format:
   html:
