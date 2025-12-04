@@ -11,27 +11,27 @@
     "href": "status.html#analysis-of-commit-histories",
     "title": "UC OSPO Survey Updates",
     "section": "Analysis of commit histories",
-    "text": "Analysis of commit histories\nAs part of the survey, we asked people to share their GitHub (GitLab, etc.) usernames with us (optionally and voluntarily). We plan to use these data to investigate where, how, and how often UC contributors are contributing to small and large open source repos. This may happen in the second half of 2026."
+    "text": "Analysis of commit histories\nAs part of the survey, we gave respondents the opportunity to share their GitHub (GitLab, etc.) usernames with us. We plan to use these data to investigate where, how, and how often UC contributors are contributing to small and large open source repos. This may happen in the second half of 2026."
   },
   {
     "objectID": "status.html#other-ideas",
     "href": "status.html#other-ideas",
     "title": "UC OSPO Survey Updates",
     "section": "Other ideas",
-    "text": "Other ideas\nOther ideas we’re considering, but have no immediate plans for, include:\n- Focus groups to investigate developer needs re: computing infrastructure - Anaylsis of software citations datasets, focused on UC software - Analysis of open source usage by UC IT\nIf you are interested in collaborating with us on one of these projects or something else, please reach out to us at ospo@library.ucsb.edu."
+    "text": "Other ideas\nOther ideas we’re considering, but have no immediate plans for, include:\n\nFocus groups to investigate developer needs re: computing infrastructure\nAnaylsis of software citations datasets, focused on UC software\nAnalysis of open source usage by UC IT\n\nIf you are interested in collaborating with us on one of these projects or something else, please reach out to us at ospo@library.ucsb.edu."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "UC OSPO Survey Home",
     "section": "",
-    "text": "This is the homepage for the 2025 UC OSPO Network Open Source Survey."
+    "text": "Welcome to the homepage for the 2025 UC OSPO Network Open Source Survey!"
   },
   {
-    "objectID": "index.html#takeaways-for-other-ospos",
-    "href": "index.html#takeaways-for-other-ospos",
+    "objectID": "index.html#advice-for-ospos",
+    "href": "index.html#advice-for-ospos",
     "title": "UC OSPO Survey Home",
-    "section": "Takeaways for other OSPOs",
-    "text": "Takeaways for other OSPOs\n\nThe most common challenges that emerged from our study were time and funding. As such, OSPOs should consider either directly funding open source development, or coming up with creative ways to “give back” time or money. Examples might include facilitating co-working groups, promoting AI tools for documentation, or providing support for external grant acquisition.\nWe encountered high demand for affordable, accessible, feature-rich computing environments. This suggests an opportunity for academic OSPOs to help secure the technical infrastructure needed for open source development.\nBecause the needs of students, faculty, and IT staff diverge significantly, OSPOs may consider partnering with other university teams and departments to extend their reach.\nOSPOs may encounter a tension between institutional priorities (e.g., cost savings, licensing compliance) and developer priorities (e.g., funding, maintenance). OSPOs can and should find a balance by building an open source culture, in which open source activities are not merely monitored or regulated, but also supported, celebrated, and rewarded."
+    "section": "Advice for OSPOs",
+    "text": "Advice for OSPOs\n\nThe most common challenges that emerged from our study were time and funding. As such, OSPOs should consider either directly funding open source development, or coming up with creative ways to “give back” time or money. Examples might include facilitating co-working groups, promoting AI tools for documentation, or providing support for external grant acquisition.\nWe encountered high demand for affordable, accessible, feature-rich computing environments. This suggests an opportunity for academic OSPOs to help secure the technical infrastructure needed for open source development.\nBecause the needs of students, faculty, and IT staff diverge significantly, OSPOs may consider partnering with other university teams and departments to extend their reach.\nOSPOs may encounter a tension between institutional priorities (e.g., cost savings, licensing compliance) and developer priorities (e.g., funding, maintenance). OSPOs can and should find a balance by building an open source culture, in which open source activities are not merely monitored or regulated, but also supported, celebrated, and rewarded."
   }
 ]
