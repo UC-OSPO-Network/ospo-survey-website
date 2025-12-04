@@ -21,8 +21,8 @@ website:
         target: _blank
       - icon: envelope
         href: mailto:ospo@library.ucsb.edu
-      - icon: images/logo.svg
-        href: https://ucospo.net
+      - text: |
+        <a href="https://ucospo.net" target="_blank"><img src="images/logo.svg" class="custom-icon"></a>
 
 format:
   html:

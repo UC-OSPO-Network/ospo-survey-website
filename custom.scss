@@ -18,3 +18,12 @@ $footer-fg: #ffffff;
 h2, .h2 {
   border-bottom: none;
 }
+.custom-icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em; /* Align to the text baseline */
+    object-fit: contain; /* Ensure the image doesn't stretch if dimensions aren't square */
+    /* Add a filter to change the icon color
+       (Only works for SVGs or transparent PNGs) */
+    filter: brightness(0) invert(1);
+}
