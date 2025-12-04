@@ -15,20 +15,47 @@ $footer-fg: #ffffff;
     pointer-events: none;
     cursor: default;
 }
+
+// Remove default underline from h2 headers
 h2, .h2 {
   border-bottom: none;
 }
 
+/* =============================
+   Footer icon sizing
+   ============================= */
+
+// Built-in Quarto/Bootstrap icons (GitHub, envelope)
+.nav-footer .bi {
+  font-size: 22px;
+  vertical-align: middle;
+}
+
+// Custom image icons
 .footer-icon-img {
   height: 22px;
   vertical-align: middle;
-  filter: brightness(0) invert(1);  // makes icon white
+  filter: brightness(0) invert(1);  // make icon white for dark footer
 }
 
+// Link spacing (same for all icons)
+.nav-footer a,
 .footer-icon-link {
   padding: 0 8px;
+  display: inline-block;
 }
 
+
+/* =============================
+   Hover styles
+   ============================= */
+
+/* Hover color for built-in icons */
+.nav-footer .bi:hover {
+  color: #5abff2;
+}
+
+/* Hover image color for custom SVG */
 .footer-icon-link:hover .footer-icon-img {
-  filter: none;  // restore original color on hover or adjust as desired
+  filter: none;
 }
